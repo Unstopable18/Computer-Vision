@@ -119,6 +119,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.compVisionEnv
+compVisionEnv/
+compVisionEnv.bak/
 
 # Spyder project settings
 .spyderproject
